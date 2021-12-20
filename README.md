@@ -1,2 +1,2 @@
 # Website_python
-simple website with python, flask and mysql 
+simple website with python, flask and sqlite using SQALCHEMY
